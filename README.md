@@ -20,3 +20,8 @@ Finding median of follows/followers for all users.
 Finding all shortest paths for all users implementing BFS.
 
 Finding top 10 users for  Betweenness Centrality Measure.
+
+# Screenshots
+
+![Screenshot_3](https://user-images.githubusercontent.com/75680845/104846277-c673c700-58ea-11eb-957c-a3a9a1b39e0e.png)
+
