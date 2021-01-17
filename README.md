@@ -5,8 +5,13 @@ Centrality focuses on the behavior of individual participants within a network. 
 
 # In this project objectives 
 Reading file and uploading to a graph and making adjacency list for graph.
+
 Finding top 10 users for follow count and follower count.
+
 Finding avarage number of follows/followers for all users.
+
 Finding median of follows/followers for all users.
+
 Finding all shortest paths for all users implementing BFS.
+
 Finding top 10 users for  Betweenness Centrality Measure.
