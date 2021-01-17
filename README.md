@@ -28,3 +28,6 @@ Finding top 10 users for  Betweenness Centrality Measure.
 ![Screenshot_4](https://user-images.githubusercontent.com/75680845/104846280-c83d8a80-58ea-11eb-8f95-0b9d70b49627.png)
 
 ![Screenshot_5](https://user-images.githubusercontent.com/75680845/104846282-c96eb780-58ea-11eb-9557-8e7c2450eb90.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/75680845/104846284-ca9fe480-58ea-11eb-8898-2bc527e47a8d.png)
+
